@@ -11,5 +11,7 @@ SHAKTI Bot our innovative solution designed to revolutionize autonomous navigati
 ![flowchart1 (2)](https://github.com/ShristiSharan/SHAKTI_BOT/assets/95679078/4cf1d955-cced-42eb-9a1d-8002974ea15c)
 
 
-## Future Target:
+## Future Target Look:
 ![image](https://github.com/ShristiSharan/SHAKTI_BOT/assets/95679078/4d69f7c9-2685-4e2a-ac7f-bfca9c18f6c2)
+
+
